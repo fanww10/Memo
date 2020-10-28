@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="memo_title_hint">输入备忘事件标题</string>
+    <string name="memo_title_label">标题</string>
+    <string name="memo_details_label">事件详情</string>
+    <string name="memo_solved_label">已解决</string>
+</resources>
